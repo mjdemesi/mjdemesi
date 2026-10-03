@@ -5,9 +5,9 @@ I'm a Full-Stack Developer passionate about creating robust, efficient, and user
 ---
 
 ## 🔧 Technologies & Skills
-- **Languages**: JavaScript, TypeScript, SQL
+- **Languages**: Python, JavaScript, TypeScript, SQL
 - **Frameworks & Libraries**: Node.js, React, NestJS, MySQL
-- **Cloud**: Google Cloud Platform, Firebase
+- **Cloud**: Google Cloud Platform, Supabase
 - **Testing & Automation**: Jest, Mocha, GitHub Actions (CI/CD)
 
 ## 📈 Featured Projects
