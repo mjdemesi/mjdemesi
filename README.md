@@ -1,6 +1,6 @@
 # Hi there, I'm Mande J. Demesi! 👋
 
-I'm a Full-Stack Developer passionate about creating robust, efficient, and user-friendly applications. I specialize in JavaScript, TypeScript, Node.js, and React, with a focus on scalable solutions and automation.
+I'm a Full-Stack Developer passionate about creating robust, efficient, and user-friendly applications. I specialize in Python, JavaScript, TypeScript, Node.js, and React, with a focus on scalable solutions and automation.
 
 ---
 
